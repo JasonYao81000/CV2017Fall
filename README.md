@@ -14,6 +14,12 @@ This course has 10 homeworks. The 10 homeworks are as follows:
 9. General Edge Detection
 10. Zero Crossing Edge Detection
 
+# Table of Contents
+<!--ts-->
+   1. [Basic Image Manipulation](https://github.com/JasonYao81000/CV2017Fall/blob/master/README.md#hw1-basic-image-manipulation)
+   2. [Basic Image Manipulation](https://github.com/JasonYao81000/CV2017Fall/blob/master/README.md#hw2-basic-image-manipulation)
+<!--te-->
+
 # HW1: Basic Image Manipulation
 * [HW1.1](https://github.com/JasonYao81000/CV2017Fall/tree/master/HW1/HW1.1)
 * [HW1.2](https://github.com/JasonYao81000/CV2017Fall/tree/master/HW1/HW1.2)
