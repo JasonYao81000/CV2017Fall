@@ -4,7 +4,7 @@ Computer Vision I at NTU 2017 Fall.
 # Table of Contents
 <!--ts-->
    0. [Environment](https://github.com/JasonYao81000/CV2017Fall/blob/master/README.md#environment)
-   0. [Indrocution](https://github.com/JasonYao81000/CV2017Fall/blob/master/README.md#indrocution)
+      [Indrocution](https://github.com/JasonYao81000/CV2017Fall/blob/master/README.md#indrocution)
    1. [Basic Image Manipulation](https://github.com/JasonYao81000/CV2017Fall/blob/master/README.md#hw1-basic-image-manipulation)
    2. [Basic Image Manipulation](https://github.com/JasonYao81000/CV2017Fall/blob/master/README.md#hw2-basic-image-manipulation)
    3. [Histogram Equalization](https://github.com/JasonYao81000/CV2017Fall#hw3-histogram-equalization)
