@@ -1,22 +1,10 @@
 # CV2017Fall
-Computer Vision I 2017 Fall at NTU.
-
-This course has 10 homeworks. The 10 homeworks are as follows:
-
-1. Basic Image Manipulation
-2. Basic Image Manipulation
-3. Histogram Equalization
-4. Mathematical Morphology - Binary Morphology
-5. Mathematical Morphology - Gray Scaled Morphology
-6. Yokoi Connectivity Number
-7. Thinning
-8. Noise Removal
-9. General Edge Detection
-10. Zero Crossing Edge Detection
+Computer Vision I at NTU 2017 Fall.
 
 # Table of Contents
 <!--ts-->
    0. [Environment](https://github.com/JasonYao81000/CV2017Fall/blob/master/README.md#environment)
+   0. [Indrocution](https://github.com/JasonYao81000/CV2017Fall/blob/master/README.md#indrocution)
    1. [Basic Image Manipulation](https://github.com/JasonYao81000/CV2017Fall/blob/master/README.md#hw1-basic-image-manipulation)
    2. [Basic Image Manipulation](https://github.com/JasonYao81000/CV2017Fall/blob/master/README.md#hw2-basic-image-manipulation)
    3. [Histogram Equalization](https://github.com/JasonYao81000/CV2017Fall#hw3-histogram-equalization)
@@ -33,6 +21,19 @@ This course has 10 homeworks. The 10 homeworks are as follows:
 * Programming Language: Python 3
 * Programming IDE: Visual Studio Code
 * Operating System: Windows 10 x64
+
+# Indrocution
+This course has 10 homeworks. The 10 homeworks are as follows:
+1. Basic Image Manipulation
+2. Basic Image Manipulation
+3. Histogram Equalization
+4. Mathematical Morphology - Binary Morphology
+5. Mathematical Morphology - Gray Scaled Morphology
+6. Yokoi Connectivity Number
+7. Thinning
+8. Noise Removal
+9. General Edge Detection
+10. Zero Crossing Edge Detection
 
 # HW1: Basic Image Manipulation
 * Part 1 of this homework is writing a program to generate the following images from lena.bmp.
