@@ -49,3 +49,13 @@ This course has 10 homeworks. The 10 homeworks are as follows:
    * Code: [HW2.3](https://github.com/JasonYao81000/CV2017Fall/tree/master/HW2/HW2.3)
    
 * [Report](https://github.com/JasonYao81000/CV2017Fall/blob/master/HW2/CV1_HW2_%E5%A7%9A%E5%98%89%E6%98%87_R06922002.pdf)
+
+# HW3: Histogram Equalization
+* This homework is to do histogram equalization with following rules:
+   * Adjust the brightness of lena.bmp to one-third.
+   * Do histogram equalization on dark image.
+   * Show the histogram of the final image.
+   * Code: [HW3.1](https://github.com/JasonYao81000/CV2017Fall/tree/master/HW3/HW3.1)
+   
+* [Report](https://github.com/JasonYao81000/CV2017Fall/blob/master/HW3/CV1_HW3_%E5%A7%9A%E5%98%89%E6%98%87_R06922002.pdf)
+
