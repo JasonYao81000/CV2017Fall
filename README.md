@@ -16,9 +16,23 @@ This course has 10 homeworks. The 10 homeworks are as follows:
 
 # Table of Contents
 <!--ts-->
+   0. [Environment](https://github.com/JasonYao81000/CV2017Fall/blob/master/README.md#environment)
    1. [Basic Image Manipulation](https://github.com/JasonYao81000/CV2017Fall/blob/master/README.md#hw1-basic-image-manipulation)
    2. [Basic Image Manipulation](https://github.com/JasonYao81000/CV2017Fall/blob/master/README.md#hw2-basic-image-manipulation)
+   3. [Histogram Equalization](https://github.com/JasonYao81000/CV2017Fall#hw3-histogram-equalization)
+   4. [Mathematical Morphology - Binary Morphology](https://github.com/JasonYao81000/CV2017Fall#hw4-mathematical-morphology---binary-morphology)
+   5. [Mathematical Morphology - Gray Scaled Morphology](https://github.com/JasonYao81000/CV2017Fall#hw5-mathematical-morphology---gray-scaled-morphology)
+   6. [Yokoi Connectivity Number](https://github.com/JasonYao81000/CV2017Fall#hw6-yokoi-connectivity-number)
+   7. [Thinning](https://github.com/JasonYao81000/CV2017Fall#hw7-thinning)
+   8. [Noise Removal](https://github.com/JasonYao81000/CV2017Fall#hw8-noise-removal)
+   9. [General Edge Detection](https://github.com/JasonYao81000/CV2017Fall#hw9-general-edge-detection)
+   10. [Zero Crossing Edge Detection](https://github.com/JasonYao81000/CV2017Fall#hw10-zero-crossing-edge-detection)
 <!--te-->
+
+# Environment
+* Programming Language: Python 3
+* Programming IDE: Visual Studio Code
+* Operating System: Windows 10 x64
 
 # HW1: Basic Image Manipulation
 * Part 1 of this homework is writing a program to generate the following images from lena.bmp.
